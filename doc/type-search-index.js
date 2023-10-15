@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Activitat","l":"ComparatorLongitut"},{"p":"Activitat","l":"FileComparator"},{"p":"Activitat","l":"FiltreExtensio"},{"p":"Activitat","l":"InterficieAEV1"}];updateSearchResults();
